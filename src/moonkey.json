@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "DEINE_TOKEN_ADRESSE",
+  "symbol": "MOONK",
+  "name": "TO THE MOONKEY",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/DEIN_GITHUB_USERNAME/token-list/main/assets/mainnet/DEINE_TOKEN_ADRESSE.png",
+  "tags": ["meme", "moonkey", "community"]
+}
